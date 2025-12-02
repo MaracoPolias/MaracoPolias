@@ -1,16 +1,16 @@
 ## Hi there 👋
+### I am MaracoPolias
 
-<!--
-**MaracoPolias/MaracoPolias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Currently I am working on
+- High-School
+- A tradebot project
 
-Here are some ideas to get you started:
+### I am currently learning
+- how to code
+- all things school
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Ask me about
+F1, school, and anything in between
+
+### Pronouns
+He/Him
