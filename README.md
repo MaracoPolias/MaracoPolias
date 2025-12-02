@@ -4,6 +4,7 @@
 #### Currently I am working on
 - High-School
 - A tradebot project
+- A F1 Book
 
 ### I am currently learning
 - how to code
